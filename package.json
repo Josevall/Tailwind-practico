@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "tailwindcss -i ./src/css/tailwind.css -o ./public/css/tailwind.css --watch"
+    "watch": "tailwindcss -i ./public/css/tailwind.css --watch"
   },
-  "author": "Reinaldo Duque",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "tailwindcss": "^3.0.23"
